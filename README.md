@@ -3,6 +3,6 @@ You have to install :
 1- https://github.com/rjpcomputing/luaforwindows/releases
 2- requirements.cmd
 
-- Originally made by memprotect
+- Originally made by menprotect (https://github.com/Singularity5490/menprotect)
 - Current code is just re-modified to PSU Obfuscator, you can do script logger easy with this source.
 - Use at your own risk / you are response only for stealed scripts!
