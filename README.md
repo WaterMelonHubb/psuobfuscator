@@ -1,4 +1,4 @@
-Hello, free PSU Obfuscator BOT Source code.
+Hello, free Fake PSU Obfuscator BOT Source code.
 You have to install :
 1- https://github.com/rjpcomputing/luaforwindows/releases
 2- requirements.cmd
