@@ -5,6 +5,6 @@ You have to install :
 
 - Current code is just re-modified to PSU Obfuscator, you can do script logger easy with this source.
 - Use at your own risk / you are response only for stealed scripts!
-Credits:
+- Credits:
 - https://github.com/ubimumu
 - menprotect
